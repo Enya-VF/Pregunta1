@@ -1,0 +1,134 @@
+.fondo{
+    position: relative;
+    width: 1080px;
+    height: 1080px;
+    background: #4D5646;
+}
+.perfil{
+    position: absolute;
+    width: 691px;
+    height: 825px;
+    left: 196px;
+    top: 127px;
+    background: url(https://i79.servimg.com/u/f79/20/31/61/88/fondo10.jpg);
+    box-shadow: 0px 4px 13px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;   
+
+}
+
+.fotoperfil{
+    position: absolute;
+    width: 305px;
+    height: 305px;
+    left: 193px;
+    top: 252px;
+    border-radius: 50% ;
+    background: #F1EAEA;
+    z-index: 10;
+
+}
+.imagen{
+     
+    position: absolute;
+    width: 287px;
+    height: 287px;
+    left: 9px;
+    top: 9px;
+
+}
+.descripcion{
+    position: absolute;
+    width: 692px;
+    height: 548px;
+    top: 404px;
+    background: #FFFFFF;
+    border-radius: 15px;
+
+}
+.nombre{
+    position: absolute;
+    width: 328px;
+    height: 62px;
+    left: 190px;
+    top: 193px;
+    font-family: PT Sans Caption;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 62px;
+
+}
+.trabajo{
+    position: absolute;
+    width: 224px;
+    height: 47px;
+    left: 242px;
+    top: 245px;
+    font-family: PT Sans Caption;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 47px;
+    color: #000000;
+    
+}
+.descripciones{
+    position: absolute;
+    width: 426px;
+    height: 93px;
+    left: 141px;
+    top: 369px;
+    font-family: PT Sans Caption;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 31px;
+    text-align: center;
+    color: #000000;
+
+}
+.redes{
+    position: absolute;
+    width: 215px;
+    height: 26px;
+    left: 253px;
+    top: 484px;   
+
+}
+.logolinked{
+    position: absolute;
+    left: 2px;
+}
+.logoInstagram{
+    position: absolute;
+ left: 100px;
+
+}
+.liked{
+    position: absolute;
+    width: 67px;
+    height: 18px;
+    left: 26px;
+    top: 2px;
+    font-family: PT Sans Caption;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    color: #000000;
+
+}
+.instagram{
+    position: absolute;
+    width: 67px;
+    height: 18px;
+    left: 120px;
+    top: 2px;
+    font-family: PT Sans Caption;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    color: #000000;
+
+}
